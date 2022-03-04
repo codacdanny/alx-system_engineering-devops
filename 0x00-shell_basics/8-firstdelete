@@ -1,0 +1,2 @@
+#!/bin/bash
+find /tmp/my_first_directory/betty rm -f betty
